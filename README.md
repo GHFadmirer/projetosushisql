@@ -12,5 +12,5 @@ boolean utilizado nos ingredientes (infelizmente o phpmyadmin so ignorou esse pe
 
 baseei grande parte em um exemplo de sql de restaurante criado para um curso de linkedin (https://github.com/scottsimpson/restaurant-database) e grande parte nos exemplos do w3school
 
-atualmente sem função externa conectada, apenas o sql.
+atualmente sem função externa conectada, apenas o sql (vou colocar os pontos de lealdade quando estiver pronto).
 provavelmente terminado ate o fim de marco
