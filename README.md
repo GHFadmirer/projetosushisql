@@ -10,7 +10,7 @@ o uso de default foi colocado no sistema de pontos
 Eu decidi usar decimal no salario, preço de itens e quantidade
 boolean utilizado nos ingredientes (infelizmente o phpmyadmin so ignorou esse pedido e transformou em tinyint por algum motivo
 
-baseei grande parte em um exemplo de sql de restaurante criado para um curso de linkedin (https://github.com/scottsimpson/restaurant-database) e grande parte nos exemplos do w3school
+baseei grande parte em um exemplo de sql de restaurante criado para um curso de linkedin (https://github.com/scottsimpson/restaurant-database)
 
 atualmente sem função externa conectada, apenas o sql (vou colocar os pontos de lealdade quando estiver pronto).
 provavelmente terminado ate o fim de marco
