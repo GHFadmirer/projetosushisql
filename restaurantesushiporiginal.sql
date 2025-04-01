@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS RestauranteSushi;
-USE RestauranteSushi;
+CREATE DATABASE IF NOT EXISTS db_sushi;
+USE db_sushi;
 
 CREATE TABLE Clientes (
     cliente_id INT PRIMARY KEY AUTO_INCREMENT,
